@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "biclustermd"]
+	path = biclustermd
+	url = https://github.com/jreisner/biclustermd
+	shallow = true
+	registered = true
